@@ -68,3 +68,9 @@ body {
     background-size: cover;
     backface-visibility: hidden;
 }
+
+#actions {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
